@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://embouse.github.io/sitemap.txt
